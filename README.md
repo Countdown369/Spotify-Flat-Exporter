@@ -1,1 +1,1 @@
-"Exports" the data (songs with artist and album information, description, and cover) of your Spotify playlists to text files.
+"Exports" the data (songs with artist and album information, description, and cover) of your Spotify playlists to text files, and create a table of songs-in-playlists to analyze with `pandas` in Python.
